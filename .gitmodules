@@ -1,0 +1,3 @@
+[submodule "bestir-build-utils"]
+	path = bestir-build-utils
+	url = https://github.com/Max-Gabriel-Susman/bestir-build-utils
